@@ -12,18 +12,16 @@
 			<FeatureTypeStyle>
               <Rule>
                 <PointSymbolizer>
-     <Graphic>
-       <Mark>
-         <WellKnownName>ttf://IDET_1#0x0049</WellKnownName>
-         <Fill>
-           <CssParameter name="fill">#333EBF</CssParameter>
-         </Fill>
-         <Stroke/>
-       </Mark>
-     <Size>16</Size>
-   </Graphic>
- </PointSymbolizer>
-				
+     				<Graphic>
+       					<Mark>
+         					<WellKnownName>ttf://IDET_1#0x0049</WellKnownName>
+         					<Fill>
+           						<CssParameter name="fill">#333EBF</CssParameter>
+                            </Fill>
+       					</Mark>
+     					<Size>22</Size> 
+   					</Graphic>
+ 				</PointSymbolizer>
               </Rule>
 			</FeatureTypeStyle>
 		</UserStyle>

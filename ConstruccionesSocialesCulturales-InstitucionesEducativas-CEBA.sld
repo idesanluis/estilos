@@ -18,9 +18,9 @@
          <Fill>
            <CssParameter name="fill">#FF7F27</CssParameter>
          </Fill>
-         <Stroke/>
+        
        </Mark>
-     <Size>16</Size>
+     <Size>22</Size>
    </Graphic>
  </PointSymbolizer>
 				

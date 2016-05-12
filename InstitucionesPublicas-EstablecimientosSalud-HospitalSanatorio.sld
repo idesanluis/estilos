@@ -6,7 +6,7 @@
 	version="1.0.0" 
 	xsi:schemaLocation="http://www.opengis.net/sld StyledLayerDescriptor.xsd">
 	<NamedLayer>
-		<Name>InstitucionesPublicas-EstablecimientosSalud-HospitalSanatorio</Name>
+		<Name>ConstruccionesSocialesCulturales-InstitucionesEducativas-Inicial</Name>
 		<UserStyle>
 			<Title>SLD</Title>
 			<FeatureTypeStyle>
@@ -14,17 +14,12 @@
                 <PointSymbolizer>
      <Graphic>
        <Mark>
-         <WellKnownName>ttf://IDET_1#0x0073</WellKnownName>
+         <WellKnownName>ttf://IDET_1#0x0049</WellKnownName>
          <Fill>
-           <CssParameter name="fill">#000000</CssParameter>
+           <CssParameter name="fill">#2CB1DD</CssParameter>
          </Fill>
-         <Stroke/>
-         <Stroke>
-           <CssParameter name="stroke">#000000</CssParameter>
-         </Stroke>
-         
        </Mark>
-     <Size>16</Size>
+     <Size>20</Size>
    </Graphic>
  </PointSymbolizer>
 				

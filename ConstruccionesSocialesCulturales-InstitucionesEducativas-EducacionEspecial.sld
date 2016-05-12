@@ -20,7 +20,7 @@
          </Fill>
          <Stroke/>
        </Mark>
-     <Size>16</Size>
+     <Size>22</Size>
    </Graphic>
  </PointSymbolizer>
 				
